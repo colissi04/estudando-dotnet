@@ -12,3 +12,4 @@
 /Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/estudando-dot-net.pdb
 /Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/estudando-dot-net.genruntimeconfig.cache
 /Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/ref/estudando-dot-net.dll
+/Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/estudando-dot-net.sourcelink.json
