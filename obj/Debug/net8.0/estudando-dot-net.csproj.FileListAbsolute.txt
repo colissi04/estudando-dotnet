@@ -1,0 +1,14 @@
+/Users/rcolissi/dotnet/estudando-dot-net/bin/Debug/net8.0/estudando-dot-net
+/Users/rcolissi/dotnet/estudando-dot-net/bin/Debug/net8.0/estudando-dot-net.deps.json
+/Users/rcolissi/dotnet/estudando-dot-net/bin/Debug/net8.0/estudando-dot-net.runtimeconfig.json
+/Users/rcolissi/dotnet/estudando-dot-net/bin/Debug/net8.0/estudando-dot-net.dll
+/Users/rcolissi/dotnet/estudando-dot-net/bin/Debug/net8.0/estudando-dot-net.pdb
+/Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/estudando-dot-net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/estudando-dot-net.AssemblyInfoInputs.cache
+/Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/estudando-dot-net.AssemblyInfo.cs
+/Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/estudando-dot-net.csproj.CoreCompileInputs.cache
+/Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/estudando-dot-net.dll
+/Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/refint/estudando-dot-net.dll
+/Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/estudando-dot-net.pdb
+/Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/estudando-dot-net.genruntimeconfig.cache
+/Users/rcolissi/dotnet/estudando-dot-net/obj/Debug/net8.0/ref/estudando-dot-net.dll
